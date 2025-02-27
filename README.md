@@ -1,5 +1,5 @@
 
-# PRUEBA TÉCNICA / SISTEMA DE GESTIÓN DE ROLES Y PERMISOS
+# SISTEMA DE GESTIÓN DE ROLES Y PERMISOS
 
 ## Modelo Relacional
 ![Modelo Relacional](https://github.com/user-attachments/assets/c8c2ebcb-376d-4bfb-b43d-66e0efdf13a5)
